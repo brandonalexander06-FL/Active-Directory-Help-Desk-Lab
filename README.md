@@ -5,7 +5,7 @@ This project simulates a corporate IT environment using **Windows Server 2025**.
 
 Deploying this environment presented a unique challenge. Sourcing a build compatible with my ARM-based MacBook (M-Series) was tricky, as standard server ISOs are incompatible with the architecture. 
 
-Microsoft isn't planning on releasing an ARM compatible version of Windows Server 2025, but I successfully located and deployed an internal build originally deployed through the Windows Insider Program. This build was completely wiped with no mention of it's removal from Microsoft, but was (luckily) still avalible for download via archive.org. 
+Microsoft isn't planning on releasing an ARM compatible version of Windows Server 2025, but I successfully located an internal build originally deployed through the Windows Insider Program. All of the ARM64 builds for Windows Server '25 were completely wiped with no mention of it's removal from Microsoft, but was (luckily) still avalible for download via archive.org. 
 
 With the core infrastructure stabilized, the goal was to architect a scalable identity management system from scratch, focusing on **automation**, **security compliance**, and **help desk operations**.
 
