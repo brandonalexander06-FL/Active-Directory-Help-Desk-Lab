@@ -3,7 +3,7 @@
 ## Project Summary
 This project simulates a corporate IT environment using **Windows Server 2025**.
 
-Deploying this environment presented a unique infrastructure challenge. Sourcing a build compatible with my ARM-based MacBook (M-Series) was tricky, as standard server ISOs are incompatible with the architecture. 
+Deploying this environment presented a unique challenge. Sourcing a build compatible with my ARM-based MacBook (M-Series) was tricky, as standard server ISOs are incompatible with the architecture. 
 
 Microsoft isn't planning on releasing an ARM compatible version of Windows Server 2025, but I successfully located and deployed an internal build originally deployed through the Windows Insider Program. This build was completely wiped with no mention of it's removal from Microsoft, but was (luckily) still avalible for download via archive.org. 
 
